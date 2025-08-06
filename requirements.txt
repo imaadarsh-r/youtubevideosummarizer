@@ -1,0 +1,12 @@
+
+langchain
+langgraph
+openai
+yt-dlp
+faster-whisper
+pydub
+ffmpeg-python
+streamlit  
+langchain-core
+langchain-community
+langchain-groq
