@@ -26,8 +26,8 @@ Turn any YouTube video into a beautifully written blog post with a title and sum
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/youtube-blog-generator.git
-cd youtube-blog-generator
+git clone  https://github.com/imaadarsh-r/youtubevideosummarizer.git
+
 
 2. Create Python Environment
 
